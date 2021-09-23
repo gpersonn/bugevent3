@@ -15,6 +15,8 @@ public class Server
        String s = "aloha";
        System.out.println(String.format("This is a faulty message: %i", s));
        System.out.format("No %s",1);
+       System.out.format("No %s",1);
+
         
         
         
